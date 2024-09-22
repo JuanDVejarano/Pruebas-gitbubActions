@@ -1,5 +1,4 @@
 name: hola-mundo
-runs-name: Hola Mundo
 
 on:
     workflow_dispatch:
